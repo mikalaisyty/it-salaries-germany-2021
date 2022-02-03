@@ -2,7 +2,7 @@
 
 A quick and naive analysis of the salaries in IT in Germany in 2021.
 
-Click on [salary2021.ipynb](https://github.com/mikalaisyty/it-salaries-germany-2021) and croll down.
+Click on [salary2021.ipynb](https://github.com/mikalaisyty/it-salaries-germany-2021/blob/main/salary2021.ipynb) and croll down.
 
 ## Dataset
 
